@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="error_message">Failed to set location</string>
+    <string name="city_text">"City: "</string>
+    <string name="check">location search</string>
+
+    <string name="sunrise">feels like</string>
+    <string name="wind_dir">wind dir</string>
+    <string name="wind">wind</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="event">event</string>
+    <string name="update">last update on server</string>
+    <string name="grad">" C"</string>
+</resources>
